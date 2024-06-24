@@ -16,8 +16,8 @@ button:active {
   transform: scale(0.95);
 }
 
-button:focus,
-input:focus {
+input:focus,
+button:focus {
   outline: none;
 }
 
@@ -92,10 +92,10 @@ ul.songs {
   padding: 0;
 }
 
-ul.song li {
+ul.songs li {
   display: flex;
   align-items: center;
-  justify-self: space-between;
+  justify-content: space-between;
   margin: 10px 0;
 }
 
