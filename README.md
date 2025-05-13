@@ -34,3 +34,7 @@ cd lyrics-search
 ## License
 
 This project is licensed under the MIT License.
+
+## Acknowledgements
+
+- [lyrics.ovh](lyrics.ovh) for the lyrics API.
