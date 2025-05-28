@@ -31,10 +31,6 @@ cd lyrics-search
 1. Enter a song title or artist name in search bar.
 2. Click on a result to view its lyrics.
 
-## License
-
-This project is licensed under the MIT License.
-
 ## Acknowledgements
 
 - [lyrics.ovh](lyrics.ovh) for the lyrics API.
